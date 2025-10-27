@@ -1,0 +1,5 @@
+{
+  "name": "Idea Expander",
+  "description": "A simple tool to expand a short idea into a full project outline or plan using AI. Enter a concept, and receive a structured plan including features, target audience, and a roadmap.",
+  "requestFramePermissions": []
+}
